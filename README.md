@@ -3,7 +3,7 @@ Today, social networking media is becoming popular as a powerful tool for influe
 ## Requirements
 1. OS Windows / Linux 
 2. Jupyter Notebook and Python
-3. Pandas, SKLearn, TextBlob, VADER, and Pytorch
+3. Pandas, JCopML, SKLearn, TextBlob, VADER, and Pytorch
 ## Preprocessing Data
 1. Prepare the Dataset (The Dataset is Attached) 
 ```
